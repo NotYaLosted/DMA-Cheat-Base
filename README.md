@@ -2,7 +2,7 @@
 
 Created on my knees in 4 minutes
 
-# Credites
+# Credits
 [MemProcFS](https://github.com/ufrisk/MemProcFS)
 
 
